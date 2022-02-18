@@ -1,7 +1,10 @@
-site_name: obsidian-mkdocs template
+site_name: Pero Pipes
 
 theme:
     name: 'material'
+    features: 
+      - navigation.tabs
+      - navigation.expand
     palette:
 
     # Light mode
