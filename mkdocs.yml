@@ -8,8 +8,8 @@ nav:
       - containers/batch_group.md
       - batch: 
         - containers/batch.md
-        - EQE: - containers/EQE.md
-        - PL: - containers/PL.md
+        - EQE: containers/EQE.md
+        - PL: containers/PL.md
         - MPP: containers/MPP.md
 
 
