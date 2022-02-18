@@ -1,5 +1,15 @@
 site_name: Pero Pipes
 
+nav:
+  - Introduction: index.md
+    - root: containers/root.md
+      - batch_group: batch_group.md
+        - batch: containers/batch.md
+          - EQE: containers/EQE.md
+          - PL: containers/PL.md
+          - MPP: containers/MPP.md
+
+
 theme:
     name: 'material'
     features: 
