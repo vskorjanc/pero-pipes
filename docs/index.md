@@ -1,11 +1,10 @@
-# Obsidian Notes
+# Intro
+Explains how to navigate this vault and use the necessary tools in order to build and analyse a database.
+- [[file naming convention]]
+- [[asset types]]
+- [[navigating the docs]]
+- [[about Thot]]
+- [[adding data]]
+- [[running analysis]]
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+If you have any other questions, shoot me a message on [Mattermost](https://mattermost.hzdr.de/hzb-pero).
