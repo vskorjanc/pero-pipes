@@ -5,9 +5,9 @@ nav:
     - Home: index.md
     - Introduction:
       - File naming convention: general/file-naming-convention.md
-      - asset types: general/asset-types.md
-      - about Thot: general/about-Thot.md
-      - adding data: general/adding-data.md
+      - Asset types: general/asset-types.md
+      - About Thot: general/about-Thot.md
+      - Adding data: general/adding-data.md
       - Running analysis: general/running-analysis.md
   - Common: 
     - overview: hierarchies/evap hierarchy.md
