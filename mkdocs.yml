@@ -10,7 +10,7 @@ nav:
       - Adding data: general/adding-data.md
       - Running analysis: general/running-analysis.md
   - Common: 
-    - overview: hierarchies/evap hierarchy.md
+    - overview: hierarchies/common hierarchy.md
     - root: containers/root.md
     - ↓: 
       - batch_group: containers/batch_group.md
