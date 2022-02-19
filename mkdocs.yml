@@ -72,7 +72,8 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
+  - attr_list    
+  # emoji_generator: !!python/name:materialx.emoji.to_svgt
   # - pymdownx.arithmatex
   # - pymdownx.superfences
   # - pymdownx.details

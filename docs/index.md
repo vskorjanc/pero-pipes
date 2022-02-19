@@ -12,5 +12,7 @@ If you have any questions, reach me on [Mattermost](https://mattermost.hzdr.de/h
 ## Projects
 Individual projects may include different types of measurements. Following pages show the overview of data hierarchy for various projects:  
 
-- [[common hierarchy|Common]]
-- [[evap hierarchy|Evaporation]]
+[[common hierarchy|Common]]{ .md-button }
+[[evap hierarchy|Evaporation]]{ .md-button }
+
+
