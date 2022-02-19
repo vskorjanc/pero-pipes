@@ -1,5 +1,6 @@
 # File naming convention
-Measurement names generally consist of three parts:
+Measurement names generally consist of three parts:  
+
 1. Substrate name
 2. Pixel name (optional)
 3. Other

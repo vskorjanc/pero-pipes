@@ -2,8 +2,9 @@
 tags: []
 ---
 # *UV-VIS* containers
-metadata::[[date]]
-scripts:: [[PerkinElmer_data_prep]], [[UV-VIS_analysis]]
+## Metadata
+- [[date]]
+
 ## Assets
 ### Raw
 
@@ -22,5 +23,5 @@ scripts:: [[PerkinElmer_data_prep]], [[UV-VIS_analysis]]
 
 | file name                 | priority |             autorun             |
 | ------------------------- |:--------:|:-------------------------------:|
-| [[PerkinElmer_data_prep]] |    0     | <input type="checkbox" checked> |
-| [[UV-VIS_analysis]]       |    1     | <input type="checkbox" checked> |
+| `PerkinElmer_data_prep.py` |    0     | <input type="checkbox" checked> |
+| `UV-VIS_analysis.py`       |    1     | <input type="checkbox" checked> |

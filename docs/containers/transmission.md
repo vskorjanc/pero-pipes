@@ -2,8 +2,6 @@
 tags: []
 ---
 # *transmission* containers
-metadata::
-scripts:: 
 ## Assets
 ### Raw
 

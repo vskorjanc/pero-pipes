@@ -1,6 +1,7 @@
 # *JV* containers
-metadata:: [[date]]
-scripts:: [[niama2_JV_data_prep]]
+## Metadata
+- [[date]]
+
 
 ## Assets
 ### Raw
@@ -19,4 +20,4 @@ scripts:: [[niama2_JV_data_prep]]
 
 | file name               | priority |             autorun             |
 | ----------------------- |:--------:|:-------------------------------:|
-| [[niama2_JV_data_prep]] |    0     | <input type="checkbox" checked> |
+| `niama2_JV_data_prep.py` |    0     | <input type="checkbox" checked> |

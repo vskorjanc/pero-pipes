@@ -2,14 +2,15 @@
 tags: []
 ---
 # *EQE* containers
-metadata:: [[date]]
-scripts:: [[niama2_EQE_data_prep]], [[EQE_analysis]]
+## Metadata
+- [[date]]
+
 ## Assets
 ### Raw
 
 | short description                                                                               | naming convention     | example        |
 | ----------------------------------------------------------------------------------------------- | --------------------- | -------------- |
-| EQE spectrum output by SuSi.^[Do not add the calibration curve, the data is already calibrated] | `substrate_pixel.TQR` | `VikA01_a.TQR` |
+| EQE spectrum output by SuSi.[^1] | `substrate_pixel.TQR` | `VikA01_a.TQR` |
 
 ### Global
 
@@ -30,5 +31,7 @@ scripts:: [[niama2_EQE_data_prep]], [[EQE_analysis]]
 
 | file name                   | priority |             autorun             | 
 | --------------------------- |:--------:|:-------------------------------:|
-| [[niama2_EQE_data_prep]] |    0     | <input type="checkbox" checked> |
-| [[EQE_analysis]]         |    1     | <input type="checkbox" checked> |
+| `niama2_EQE_data_prep.py` |    0     | <input type="checkbox" checked> |
+| `EQE_analysis.py`         |    1     | <input type="checkbox" checked> |
+
+[^1]: Do not add the calibration curve as an asset, the data is already calibrated. It is nevertheless recommended to add it to the folder to keep the data together.

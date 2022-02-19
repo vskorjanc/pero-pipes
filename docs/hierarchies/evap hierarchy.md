@@ -1,18 +1,18 @@
-# Data hierarchy
-An overview of container relations. Showing container `type`.
-Don't know where to start? Check the [[intro]].
+# Evaporation data hierarchy
+An overview of container relations. Showing container `type`.  
+
 - [[root]]
 	- [[batch_group]]
 		- [[batch]]
+			- [[EQE]]
+			- [[evap_logs]]
 			- [[JV]]
 			- [[MPP]]
-			- [[EQE]]
 			- [[PL]]
 			- [[UV-VIS]]
 				- [[transmission]]
 				- [[reflection]]
-			- [[XRD]]
-			- [[SEM]]
-			- [[TRPL]]
-			- [[EDX]]
-			- [[evap_logs]]
+			- EDX
+			- SEM
+			- TRPL
+			- XRD

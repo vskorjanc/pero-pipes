@@ -2,8 +2,9 @@
 tags: [gradient]
 ---
 # *PL_mapping* containers
-metadata:: [[date]]
-scripts:: [[SNI_PL_data_prep]], [[PL_mapping_analysis]] 
+## Metadata
+- [[date]]
+
 ## Assets
 ### Raw
 
@@ -23,5 +24,5 @@ scripts:: [[SNI_PL_data_prep]], [[PL_mapping_analysis]]
 
 | file name                  | priority |             autorun             |
 | -------------------------- |:--------:|:-------------------------------:|
-| [[SNI_PL_data_prep]]    |    0     | <input type="checkbox" checked> |
-| [[PL_mapping_analysis]] |    1     | <input type="checkbox" checked> |
+| `SNI_PL_data_prep.py`    |    0     | <input type="checkbox" checked> |
+| `PL_mapping_analysis.py` |    1     | <input type="checkbox" checked> |

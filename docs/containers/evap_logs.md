@@ -2,8 +2,6 @@
 tags: [evaporation]
 ---
 # *evap_logs* containers
-metadata:: 
-scripts:: [[peroVap_log_data_prep]], [[peroVap_log_analysis]]
 
 ## Assets
 ### Raw
@@ -22,5 +20,5 @@ scripts:: [[peroVap_log_data_prep]], [[peroVap_log_analysis]]
 
 | file name                   | priority |             autorun             |
 | --------------------------- |:--------:|:-------------------------------:|
-| [[peroVap_log_data_prep]] |    0     | <input type="checkbox" checked> |
-| [[peroVap_log_analysis]]    |    1     | <input type="checkbox" checked> |
+| `peroVap_log_data_prep.py` |    0     | <input type="checkbox" checked> |
+| `peroVap_log_analysis.py`    |    1     | <input type="checkbox" checked> |

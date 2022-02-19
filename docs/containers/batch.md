@@ -2,8 +2,6 @@
 tags: []
 ---
 # *batch* containers
-metadata::
-scripts:: 
 ## Assets
 ### Raw
 

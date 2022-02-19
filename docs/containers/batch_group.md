@@ -1,10 +1,6 @@
 # *batch_group* containers
 A group of batches to be compared together. 
 
-metadata::
-scripts::
-
-
 ## Assets
 ### Raw
 

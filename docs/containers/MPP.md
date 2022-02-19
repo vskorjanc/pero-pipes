@@ -2,8 +2,9 @@
 tags: []
 ---
 # *MPP* containers
-metadata::
-scripts:: [[MPP_data_prep]], [[MPP_analysis]]
+## Metadata
+- [[date]]
+
 ## Assets
 ### Raw
 
@@ -21,5 +22,5 @@ scripts:: [[MPP_data_prep]], [[MPP_analysis]]
 
 | file name         | priority |             autorun             |
 | ----------------- |:--------:|:-------------------------------:|
-| [[MPP_data_prep]] |    0     | <input type="checkbox" checked> |
-| [[MPP_analysis]]  |    1     | <input type="checkbox" checked> |
+| `MPP_data_prep.py` |    0     | <input type="checkbox" checked> |
+| `MPP_analysis.py`  |    1     | <input type="checkbox" checked> |

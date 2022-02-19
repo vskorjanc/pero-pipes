@@ -1,5 +1,6 @@
 # Asset types
-There are three asset types:
+There are three asset types:  
+
 - Raw
 	- Input by the user
 	- Type field empty
