@@ -23,7 +23,7 @@ tags: []
 | type        | short description                                                                                                                                 | file name         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | EQE_df      | raw data w/ energy axis, pickled for analysis.                                                                                                    | `EQE_df.pkl`      |
-| EQE_metrics | DataFrame with calculated band gap, Urbach energy, J0, Jsc and Voc,rad.^[a `.cvs` file with same data is saved in the same folder for inspection] | `EQE_metrics.pkl` |
+| EQE_metrics | DataFrame with calculated band gap, Urbach energy, J0, Jsc and Voc,rad.[^2] | `EQE_metrics.pkl` |
 | EQE_plot    | Plot for checking EQE analysis. Contains measured and interpolated, and curves for J0 and Jsc calculation.                                        | `EQE_plot.html`   | 
 
 
@@ -35,3 +35,4 @@ tags: []
 | `EQE_analysis.py`         |    1     | <input type="checkbox" checked> |
 
 [^1]: Do not add the calibration curve as an asset, the data is already calibrated. It is nevertheless recommended to add it to the folder to keep the data together.
+[^2]: a `.cvs` file with same data is saved in the same folder for inspection

@@ -2,7 +2,7 @@ site_name: Pero Pipes
 
 nav:
   - Home: 
-    - Home: index.md
+    - About: index.md
     - Introduction:
       - File naming convention: general/file-naming-convention.md
       - Asset types: general/asset-types.md
