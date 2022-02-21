@@ -4,10 +4,10 @@ nav:
   - Home: 
     - About: index.md
     - Introduction:
-      - File naming convention: general/file-naming-convention.md
-      - Asset types: general/asset-types.md
       - About Thot: general/about-Thot.md
       - Adding data: general/adding-data.md
+      - Asset types: general/asset-types.md
+      - File naming convention: general/file-naming-convention.md
       - Running analysis: general/running-analysis.md
   - Common: 
     - overview: hierarchies/common hierarchy.md
@@ -46,7 +46,7 @@ theme:
     name: 'material'
     icon:
       logo: material/pipe
-      favicon: pipe.png
+    favicon: img/pipe.png
     features: 
       - navigation.tabs
       - navigation.expand
