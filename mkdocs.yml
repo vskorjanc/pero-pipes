@@ -18,6 +18,7 @@ nav:
         - batch: containers/batch.md
         - ↓:
           - EQE: containers/EQE.md
+          - JV: containers/JV.md
           - PL: containers/PL.md
           - MPP: containers/MPP.md
           - UV-VIS: containers/UV-VIS.md
@@ -33,6 +34,7 @@ nav:
         - batch: containers/batch.md
         - ↓:
           - EQE: containers/EQE.md
+          - JV: containers/JV.md
           - evap_logs: containers/evap_logs.md
           - PL: containers/PL.md
           - MPP: containers/MPP.md
