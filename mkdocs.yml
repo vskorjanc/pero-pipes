@@ -10,7 +10,7 @@ nav:
       - File naming convention: general/file-naming-convention.md
       - Running analysis: general/running-analysis.md
   - Common: 
-    - overview: hierarchies/common hierarchy.md
+    - overview: hierarchies/common-hierarchy.md
     - root: containers/root.md
     - ↓: 
       - batch_group: containers/batch_group.md
@@ -25,7 +25,7 @@ nav:
             - transmission: containers/transmission.md
             - reflection: containers/reflection.md 
   - Evap: 
-    - overview: hierarchies/evap hierarchy.md
+    - overview: hierarchies/evap-hierarchy.md
     - root: containers/root.md
     - ↓: 
       - batch_group: containers/batch_group.md
@@ -74,6 +74,11 @@ theme:
 markdown_extensions:
   - footnotes
   - attr_list    
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   # emoji_generator: !!python/name:materialx.emoji.to_svgt
   # - pymdownx.arithmatex
   # - pymdownx.superfences

@@ -12,7 +12,7 @@ If you have any questions, reach me on [Mattermost](https://mattermost.hzdr.de/h
 ## Projects
 Overview of data hierarchy for individual projects:  
 
-[[common hierarchy|Common]]{ .md-button }
-[[evap hierarchy|Evaporation]]{ .md-button }
+[[common-hierarchy|Common]]{ .md-button }
+[[evap-hierarchy|Evaporation]]{ .md-button }
 
 
