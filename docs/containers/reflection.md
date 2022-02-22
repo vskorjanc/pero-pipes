@@ -2,8 +2,7 @@
 tags: []
 ---
 # *reflection* containers
-metadata::
-scripts:: 
+
 ## Assets
 ### Raw
 

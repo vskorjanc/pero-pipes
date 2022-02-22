@@ -6,5 +6,8 @@ It is recommended to use [Thot GUI](https://thot-data-docs.readthedocs.io/en/lat
 - input all the necessary **metadata**
 - take care about the file names (see [[file-naming-convention|file naming convention]])
 
+!!! warning
+    Thot GUI might get slow as the database gets big. It is recommended to add the data in a smaller folder on the local machine and then transfer the folder to the right place in the joint database. 
+
 ### Good practices
 - insert scripts relative to the `root`
