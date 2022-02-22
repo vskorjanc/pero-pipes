@@ -5,7 +5,7 @@ The database can be reached by typing `\\npet1\evap_database` into file explorer
     Thot GUI **will not** be able to directly set `\\npet1\evap_database\data` as the root folder.
 
 !!! tip
-    Running `net use z: \\npet1\evap_database` in Command Prompt will render shared folder as the `z:` drive on your computer. This will make it more easily accessible, and will allow you to set `z:\npet1\evap_database\data` as the Thot root.
+    Running `net use z: \\npet1\evap_database` in Command Prompt will render shared folder as the `z:` drive on your computer. This will make it more easily accessible, and will allow you to set `z:\data` as the Thot root.
 
 ## Hierarchy
 An overview of container relations. Showing container `type`.  
