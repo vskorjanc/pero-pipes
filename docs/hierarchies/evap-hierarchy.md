@@ -1,5 +1,5 @@
 # Evaporation database
-The database can be reached by typing `\\npet1\evap_database` into file explorer.  
+Type `\\npet1\evap_database\data` into file explorer to open the database.  
 
 !!! warning
     Thot GUI **will not** be able to directly set `\\npet1\evap_database\data` as the root folder.
