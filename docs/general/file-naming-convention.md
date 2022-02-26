@@ -7,7 +7,7 @@ Measurement names generally consist of three parts:
 
 The substrate and the pixel name are separated by an underscore. The rest of the file name is delimited by a dot. This allows you to add **additional info** relevant only for you in the file name by separating it from the first part by a dot. Substrate names should therefore **not contain** an **underscore** or a **dot**.  
 !!! tip
-    Want to include your old batches? Windows has a [convenient tool]() for renaming multiple files at once. 
+    Want to include your **old batches**? Windows has a [convenient tool](https://docs.microsoft.com/en-us/windows/powertoys/powerrename) for renaming multiple files at once. 
 
 ## ✔ Valid file names:
 
