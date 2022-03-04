@@ -1,6 +1,6 @@
 # *JV* containers
 *JV* scans measured in a same instance. 
-If measured data for the same substrate and pixel is added within the same container, only the last measurement is kept. The measurement order is determined by sorting the files by name, e.g. (files kept shown in green):  
+If the container contains multiple measurements for the same substrate and pixel, only the last measurement is taken into account for further analysis. The measurement order is determined by sorting the files by name, e.g.:  
 
 ``` mermaid
 flowchart LR
@@ -20,6 +20,7 @@ classDef red fill:#FF827A,stroke:#F84F31;
 class A,D,E red;
 class B,C,F green;
 ```
+Files kept for further analysis are colored green.
 ## Metadata
 - [[date]]
 
@@ -35,7 +36,7 @@ class B,C,F green;
 
 | type       | short description                                                                                                | file name        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- | ---------------- |
-| JV_metrics | metrics [^1] as calculated by niama2, averaged over `for` and `rev` | `JV_metrics.pkl` |
+| JV_metrics | metrics[^1] as calculated by niama2, averaged over `for` and `rev` | `JV_metrics.pkl` |
 
 ## Scripts
 
