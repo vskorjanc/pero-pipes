@@ -6,9 +6,9 @@ tags: [evaporation]
 ## Assets
 ### Raw
 
-| short description           | naming convention       | example                 |
-| --------------------------- | ----------------------- | ----------------------- |
-| log files output by PeroVap | defined by the software | `XL_LTE1_LifeTime0.csv` |
+| short description                                                                                          | naming convention       | example                 |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------------- |
+| log files output by PeroVap. File path: `C:\Logs\ProcessLog\<startTime>`. Add all the files in the folder! | defined by the software | `XL_LTE1_LifeTime0.csv` |
 
 ### Formatted
 
