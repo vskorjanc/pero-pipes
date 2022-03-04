@@ -9,7 +9,7 @@ JV --- A(VikA01.d0_01.txt) & B(VikA01.d0_02.txt) & C(VikA02.d0_01.txt) & D(VikA0
 classDef green fill:#23C552;
 classDef red fill:#F84F31;
 class A,D,E red;
-- class B,C,F green;
+class B,C,F green;
 ```
 ## Metadata
 - [[date]]
