@@ -43,3 +43,8 @@ click reflection "../../containers/reflection"
 			- SEM
 			- TRPL
 			- XRD
+
+
+
+## Notes
+- Do not put data from different evaporation runs into the same batch. This way conditions within the chamber can be connected to the run results.
