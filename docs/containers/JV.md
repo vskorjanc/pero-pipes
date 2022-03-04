@@ -1,5 +1,5 @@
 # *JV* containers
-*JV* scans measured in a same instance. 
+*JV* scans measured in a same instance.  
 If the container contains multiple measurements for the same substrate and pixel, only the last measurement is taken into account for further analysis. The measurement order is determined by sorting the files by name, e.g.:  
 
 ``` mermaid
